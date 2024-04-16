@@ -1,0 +1,9 @@
+﻿<Application x:Class="Oct.GEN.Utils.Password.Encrypter.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Oct.GEN.Utils.Password.Encrypter"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
